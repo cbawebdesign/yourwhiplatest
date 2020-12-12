@@ -1,0 +1,6 @@
+module Pods_SocialNetworkingBackendApp {
+  umbrella header "Pods-SocialNetworkingBackendApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

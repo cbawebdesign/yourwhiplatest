@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243154245184",
+    "project_id": "yourwhippush",
+    "storage_bucket": "yourwhippush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243154245184:android:64054088c449aa323531a5",
+        "android_client_info": {
+          "package_name": "com.yourwhip.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243154245184-qvsclfdm6jtei5feeu4dtqja1seep9l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoV5zDSFciGCgDKSVHmYSQBMfoHezrIuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243154245184-qvsclfdm6jtei5feeu4dtqja1seep9l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
